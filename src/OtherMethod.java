@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class OtherMethod {
+public class OtherMethod {
+    static void otherSomething(){
+        System.out.println("Data Showing");
+    }
 }
